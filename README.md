@@ -4,4 +4,4 @@ The project had the scope to customize the JDK security architecture in order to
 development focused on efficiency aspects (e.g. maintaining policies in memory until they are changed).
 
 
-![Cannot visualize the img](./Capture.jpg)
+![Cannot visualize the img](./Capture.JPG)
